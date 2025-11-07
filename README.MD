@@ -1,3 +1,15 @@
+![Python radcamfx](./assets/RADCAM.gif)
+
+#### RADCAMFX
+
+**CaptainComix** is a Python tool to MOVIE RECORDING images into FX sequences by overlaying video WITH GIFS, IMAGES AND MPE layers and applying visual filters.  
+Inspired by APPLE FILTERS CAM and collage FX aesthetics.
+
+Created by **#asytric**  
+Contact: **eusmool@gmail.com**
+---
+
+
 ## ✅ What *RadCam* Does
 
 RadCam is a **live special-effects camera** system.
